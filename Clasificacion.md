@@ -19,6 +19,14 @@ Este archivo contiene una clasificación personal de películas organizadas por 
 
 ---
 
+##  Top 3 Películas de Terror
+
+- **Us** (2019)
+- **Saw** (2004)
+- **Alien** (2017)
+
+---
+
 ##  Tabla de Recomendaciones
 
 | Título                    | Género            | Puntuación IMDB | Enlace                     |
