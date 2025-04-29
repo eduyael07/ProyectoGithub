@@ -28,9 +28,3 @@ Este archivo contiene una clasificación personal de películas organizadas por 
 | Whiplash                 | Drama / Música    | 8.5              | [Ver más](https://www.imdb.com/title/tt2582802/) |
 
 ---
-
-##  Imagen Representativa
-
-![Películas](https://upload.wikimedia.org/wikipedia/commons/3/36/Film_Reel.svg)
-
----
